@@ -39,7 +39,7 @@ Template HTML untuk menampilkan sertifikat secara elegan dengan tampilan dark go
 ### 3. Upload gambar sertifikat
 
 Kamu bisa upload gambar sertifikat ke layanan gratis seperti:
-- [Cloudinary](https://cloudinary.com) — disarankan
+- [Cloudinary](https://cloudinary.com) 
 - [ImgBB](https://imgbb.com)
 - [Postimages](https://postimages.org)
 
