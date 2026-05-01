@@ -88,4 +88,4 @@ Template ini dirilis di bawah lisensi **MIT** — bebas dipakai, dimodifikasi, d
 
 ---
 
-> Dibuat dengan ❤️ — feel free to use and share!
+> Dibuat dengan sama @devxpxnyctrl jangan lupa follow ig nya | feel free to use and share! 
