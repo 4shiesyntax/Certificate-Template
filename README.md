@@ -84,8 +84,8 @@ Semua warna diatur lewat CSS variables di bagian `:root`. Kamu bisa ganti sesuai
 
 ## 📄 Lisensi
 
-Template ini dirilis di bawah lisensi **MIT** — bebas dipakai, dimodifikasi, dan didistribusikan, dengan tetap mencantumkan atribusi. Lihat file `LICENSE` untuk detail lengkapnya.
+Template ini dirilis di bawah lisensi **MIT**, bebas dipakai, dimodifikasi, dan didistribusikan, dengan tetap mencantumkan atribusi. Lihat file `LICENSE` untuk detail lengkapnya.
 
 ---
 
-> Dibuat dengan sama @devxpxnyctrl jangan lupa follow ig nya | feel free to use and share! 
+> Dibuat dengan sama [@devxpxnyctrl](https://www.instagram.com/devxpxnyctrl_/) jangan lupa follow ig nya | feel free to use and share! 
